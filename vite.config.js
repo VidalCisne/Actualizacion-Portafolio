@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/Actualizacion-Portafolio/',
   build: {
     cssMinify: true,
     minify: 'esbuild',
